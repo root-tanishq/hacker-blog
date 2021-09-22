@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-18 y/o | Hacker
+18 y/o Hacker
 
 [twitter](https://twitter.com/root_tanishq)
 

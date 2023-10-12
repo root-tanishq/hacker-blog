@@ -1,5 +1,5 @@
-title: Boy-From-Future
-description: "A Jekyll Blog Theme For Hackers"
+title: Tanishq Blogs
+description: "Security Researcher from India"
 author:
   name: "root-tanishq"
   url: "https://root-tanishq.github.io"
@@ -27,5 +27,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "kira"
-year : "2021"
+owner : "tanishq"
+year : "2023"
